@@ -1,7 +1,7 @@
 # Matplotlib-Challenge
 ## Noah LeVoir
 
-This repo is for the UMN Data Analytics course homework assignment 4: "Pandas, Pandas, Pandas"
+This repo is for the UMN Data Analytics course homework assignment 5: "The Power of Plots"
 
 This repo contains the following files:
   - A Pymaceuticals folder containing:
